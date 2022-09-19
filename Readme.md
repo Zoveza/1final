@@ -7,3 +7,4 @@
 
  *Cпасибо за внимание*
  ![Добавил скрин блок схемы](shemaforfinal.png)
+ ![shemaforfinal](https://user-images.githubusercontent.com/110192877/191105852-327c8834-d384-40f1-8edb-708e9ab6f721.png)
